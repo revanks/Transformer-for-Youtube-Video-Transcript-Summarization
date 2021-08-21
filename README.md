@@ -13,7 +13,8 @@
 ![](https://github.com/revanks/Transformer-for-Youtube-Video-Transcript-Summarization/blob/main/Youtube_trasncript_Summerizer_app.png)
 
 ##
-
+##
+##
 ![](https://github.com/revanks/Transformer-for-Youtube-Video-Transcript-Summarization/blob/main/Youtube_trasncript_Summerizer_app_1.png)
 
 
